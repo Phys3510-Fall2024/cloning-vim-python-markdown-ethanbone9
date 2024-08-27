@@ -1,3 +1,6 @@
+
+NIST Chemistry WebBook, SRD 69: https://webbook.nist.gov/cgi/cbook.cgi?Source=1953DES876-880&Mask=2
+T(K)    c_P(J/mol*K)
 277.68  5.3078
 287.96  5.669	
 295.    6.081	
